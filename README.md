@@ -3,9 +3,8 @@ Multiple Linear Regression model that helps to predict the demand of bike sharin
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-
+* [Technologies Used](#technologies-used)
 ## General Information
 - #### Background:
  The comapny BoomBikes (A US bike-sharing provider) to accelerate its revenue, aspires to understand the demand for shared bikes among the people. They have    planned this to stand out from other service providers and make huge profits.
