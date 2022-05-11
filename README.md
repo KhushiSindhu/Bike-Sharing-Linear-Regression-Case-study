@@ -17,8 +17,15 @@ Multiple Linear Regression model that helps to predict the demand of bike sharin
 
 
 ## Conclusions
+We can see the demand for bikes depends mainly on below variables:
+- Time related fetaures : yr , Holiday,Sep
+- Weather related fetaures: atemp ,Spring, Mist_Cloudy, Light rain_Light snow_Thunderstorm
 
+- Demand Increases :
+With Year, In month of Sep, atemp
 
+- Demand Decreases:
+Spring, Mist_Cloudy, Light rain_Light snow_Thunderstorm, On Holiday
 
 ## Technologies Used
 - Python - version 3.9.7
